@@ -131,3 +131,213 @@ Maintenance margin is the amount of account balance (collateral value) required 
 
 Moon/ Mooning
 When a coin ‘moons’, that means it rises sharply in value. A crypto trader could talk about how an altcoin is going "to the moon!" 
+
+
+Crypto / Trading Terms (N-Z)
+
+NY
+New York.
+
+OHLC
+Open, high, low and close price on an individual candlestick.
+
+Open Interest
+Open Interest (OI) is the total number of derivatives contracts currently open for a particular asset. OI is calculated by adding the total number of longs and shorts.
+
+Overbought 
+A technical opinion that the market price has risen too steeply and too fast in relation to underlying fundamental factors.
+
+Oversold
+A technical opinion that the market price has declined too steeply and too fast in relation to underlying fundamental factors.
+
+PA / Price Action
+Analysis of price behaviour to that ignores fundamentals and focuses on the patterns of price such as market structure and trend direction.
+
+P&L / PnL 
+Profit & Loss. What a trader has made or lost in a given timeframe.
+
+Position Trade
+Taking a position in the market over a period of multiple weeks or even months. 
+
+Pump and Dump
+A "pump and dump" is a type of market manipulation where a market participant—or several—work together to inflate the price of an asset so they can sell it when its value is artificially high.
+
+Pump / Rip 
+Price goes up rapidly.
+
+Rekt
+The term "rekt" is crypto trader slang for "wrecked." Basically, it means that a trader lost substantial amounts of money.
+
+Resistance 
+An area/line where traders expect the price to stop moving up and reverse downwards.
+	
+Rally
+An upward trend leading to an increase in price of the coin.
+
+Range / Ranging
+The difference between the high and low price of a coin during a given time period. Ranging means we are going up and down with no clear trend.
+
+Risk
+How much you will lose if your trade fails.
+
+Reward
+How much your trade will return if it wins.
+
+RR
+Risk reward, shorthand for how much profit you stand to make per unit of risk.
+
+Scalping / Scalp Trade
+Taking a position on a very short timeframe (minutes) aiming to capture a fast profit on a move.
+
+Selling off 
+When a coin is going down and the thought is that it will continue to do so.
+
+Slippage 
+The difference between estimated fill price for a trade and the amount paid due to market conditions, poor execution etc.
+
+Swing Trade
+Taking a position in the market over a period of 2-7 days.
+
+Short / Shorting / Short Trade
+A sell order to open a position on perpetual futures. ‘Sell’ and ‘Short’ are often used interchangeably.
+
+Short Squeeze 
+When those that are short have to cover (close their position) to avoid excessive losses. Leads to a seemingly unexplainable up move.
+
+Spread
+The difference between the price sellers are willing to sell at (best ask/offer) and buyers are willing to buy at (best bid). There always exists a spread on exchanges, the more liquidity an exchange has, the lower the spread will be.	
+ 
+Supply
+An area or level with significant sell orders.
+
+Stop-Loss
+An order that is triggered when price goes above/below a set price. Used to limit losses when a trade goes against expectation. 
+
+Support
+A support is an area/line where traders expect the price to hold above or bounce back up from. 
+
+Sweep
+Where price goes above or below a consolidation range and reverses back into the range. “Sweep the lows” or “sweep the highs” typically refers to a price move designed to hit the stop-losses of traders.
+
+The Tape / Reading the Tape
+Known as Time and Sales – this is the list of trades that have been executed on a particular coin. Tells you the price the trade went off at and the number of contracts/ coins that were traded.
+
+Token
+A digital token is a unit of a digital currency, such as a bitcoin. Interchangeable with ‘coin’.
+
+Time Frame
+The time spread of each candlestick in a chart. Common time periods are 5min, 30 min, 1Hour, 4 Hour, Daily etc. 
+
+Trend 
+The general direction, either upward or downward, in which prices has been moving.
+
+Trendline
+In charting, a line drawn across the bottom or top of a price chart indicating the direction or trend of price movement. If up, the trendline is called bullish; if down, it is called bearish.
+
+Uptrend
+When price is making higher highs and higher lows over a given timeframe.
+ 
+Volatility
+The percentage movement in price of an asset over a specific time period. 
+
+Volume
+Total number of coins or contracts traded in a particular time period.
+
+Whale
+The term "whale" is used to describe a trader who makes sizable bets. Market participants with the ability to execute very large transactions can potentially manipulate the market.
+
+Zero
+The final destination for 99.9% of crypto (not BTC). Don't forget to take profit when times are good :)
+
+Non-Crypto Terms
+
+CME
+Chicago Mercantile Exchange. A global derivatives marketplace where futures and options contracts on commodities, equities, interest rates, and some cryptocurrencies are traded.
+
+CPI
+Consumer Price Index. A monthly data release that analyses and estimates inflation as it relates to consumer spending habits.
+
+DXY
+The ticker for the US Dollar Index.
+
+ES
+The ticker (stock symbol) for S&P 500 Futures, which can be bought and sold through the Chicago Mercantile Exchange.
+
+ETF
+Exchange-Traded Fund. A financial instrument that tracks an index, commodity, or asset and is traded on stock exchanges like a stock.
+
+Federal Reserve / Fed
+The board sets Fed policy regarding monetary policy (interest rates, credit, etc.), and monitors the economic health of the country.
+
+FOMC / FOMC Meeting
+Federal Open Market Committee. A group of members representing US reserve banks who meet to decide on monetary policy.
+
+GDP
+Gross Domestic Product. A measure of the total value of goods and services produced within a country’s economy over a specific period.
+
+Inflation
+The rate at which the general level of prices for goods and services in an economy is rising.
+
+NFP
+Non-Farm Payrolls. A key US employment report released monthly, measuring the change in jobs across all sectors except farming, government, and nonprofits.
+
+NQ
+The ticker (stock symbol) for Nasdaq 100 Futures, which can be bought and sold through the Chicago Mercantile Exchange.
+
+PCE
+Personal Consumption Expenditures. A key inflation metric used by the Federal Reserve to assess consumer spending and price stability trends.
+
+PPI
+Producer Price Index. A monthly data release that analyses and estimates inflation through the prices domestic producers receive for their output.
+
+Recession
+A significant decline in economic activity across multiple sectors, typically identified by two consecutive quarters of negative GDP growth.
+
+SEC
+Securities & Exchange Commission. The Federal regulatory agency established in 1934 to administer Federal securities laws.
+
+Stagflation
+A rare economic condition where high inflation, slow economic growth, and high unemployment occur simultaneously.
+
+Tariffs
+Taxes imposed on imported goods by a government, typically used to protect domestic industries or as a tool in trade policy.
+
+TradFi
+Shorthand for “traditional finance” and refers to the legacy stock, bonds, and currency markets. (Example: S&P 500)
+
+Treasury (US Treasury)
+The government department responsible for issuing debt, collecting taxes, and managing federal finances. It oversees the US Mint, IRS, and the issuance of Treasury bonds, bills, and notes.
+
+Time/ Timezones
+
+UTC
+Coordinated Universal Time - the timezone used for crypto charting.
+
+Daily Open - UTC 00:00
+The start of a new daily session, and new daily candle on the charts.
+
+Weekly Open - UTC 00:00 on Monday AM
+The start of a new week, and a new weekly candle on the charts.
+
+NY Open – 9:30A.M (New York Time) 
+When the NYSE (New York Stock Exchange) opens for the trading session. Mon - Fri excluding public holidays.
+
+NY Close - 4:00 P.M (New York Time) 
+When the NYSE (New York Stock Exchange) closes for the trading session. Mon - Fri excluding public holidays.
+
+London Open - 8:00 A.M (London Time)
+When the LSE (London Stock Exchange) opens for the trading session. Mon - Fri excluding public holidays.
+
+London Close - 4:30 P.M (London Time)
+When the LSE (London Stock Exchange) closes for the trading session. Mon - Fri excluding public holidays.
+
+CME Open – 6:00 P.M (New York Time) every Sunday (excluding holidays)
+When the US futures markets open for pre-market trading. This is important as there are BTC and ETH futures on the CME.	
+ 
+Timeframe abbreviations
+M1 = 1 minute candle
+M5 = 5 minute candle
+H1 = 1 hour candle
+H4 = 4 hour candle
+1D = 1 day candle
+1W = 1 week candle

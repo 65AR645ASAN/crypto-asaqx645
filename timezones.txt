@@ -1,0 +1,33 @@
+Time/ Timezones
+
+UTC
+Coordinated Universal Time - the timezone used for crypto charting.
+
+Daily Open - UTC 00:00
+The start of a new daily session, and new daily candle on the charts.
+
+Weekly Open - UTC 00:00 on Monday AM
+The start of a new week, and a new weekly candle on the charts.
+
+NY Open – 9:30A.M (New York Time) 
+When the NYSE (New York Stock Exchange) opens for the trading session. Mon - Fri excluding public holidays.
+
+NY Close - 4:00 P.M (New York Time) 
+When the NYSE (New York Stock Exchange) closes for the trading session. Mon - Fri excluding public holidays.
+
+London Open - 8:00 A.M (London Time)
+When the LSE (London Stock Exchange) opens for the trading session. Mon - Fri excluding public holidays.
+
+London Close - 4:30 P.M (London Time)
+When the LSE (London Stock Exchange) closes for the trading session. Mon - Fri excluding public holidays.
+
+CME Open – 6:00 P.M (New York Time) every Sunday (excluding holidays)
+When the US futures markets open for pre-market trading. This is important as there are BTC and ETH futures on the CME.	
+ 
+Timeframe abbreviations
+M1 = 1 minute candle
+M5 = 5 minute candle
+H1 = 1 hour candle
+H4 = 4 hour candle
+1D = 1 day candle
+1W = 1 week candle

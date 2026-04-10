@@ -7,6 +7,7 @@ A small reference repo for trading study and daily execution.
 - `crypto-terms.txt` - a plain-text glossary of crypto and trading terms, organized alphabetically from A-M and N-Z.
 - `timezones.txt` - a quick reference for market sessions, opens/closes, and common timeframe abbreviations.
 - `daily-routine-90-days.xlsx` - a 90-day routine workbook with weekly tabs, dated weekday columns, and checkbox-style habit tracking.
+- `skills-folder/notes.txt` - informal notes about money goals, building skills, and time management.
 
 ## Daily Routine Workbook
 
@@ -37,3 +38,4 @@ The routine focuses on:
 
 - This repo does not require any build steps.
 - The workbook file is the main active artifact in the project.
+- `skills-folder/notes.txt` is a rough scratchpad rather than a finished document.
